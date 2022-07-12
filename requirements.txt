@@ -1,0 +1,6 @@
+category-encoders
+lightgbm
+numpy
+pandas
+scikit-learn
+Flask
